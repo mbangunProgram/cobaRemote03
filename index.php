@@ -8,5 +8,9 @@
 <body>
     <h1>Mencoba Remote 03</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit cumque ea ipsam adipisci esse voluptatum animi a reprehenderit dignissimos dicta?</p>
+<ul>
+    <li>Satu</li>
+    <li>Dua</li>
+</ul>
 </body>
 </html>
